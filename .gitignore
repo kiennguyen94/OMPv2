@@ -1,0 +1,5 @@
+*.bin
+*.o
+*.project
+*.csv
+*.cproject
